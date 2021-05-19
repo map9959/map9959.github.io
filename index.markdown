@@ -30,7 +30,7 @@ Yash Bharti- yb1025@nyu.edu  (hours TBD)
 Wednesdays   (2/24, 3/24,4/21)
 ## Final
 TBD, during 5/12 - 5/18
-We will use  NYU Classes where all lecture material, homework assignments, and classwork will be available.
+We will use NYU Classes where all lecture material, homework assignments, and classwork will be available.
 
 
 ## Grading
