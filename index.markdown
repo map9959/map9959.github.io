@@ -24,9 +24,12 @@ Time and Place (New York Time):
 * T 9:30-10:45 AM  Online  (Samasth Norway Ananda- sna354@nyu.edu)  
 * T 9:30-10:45 AM  60 5th Avenue C12 (Sanjana Jangnure - sbj286@nyu.edu)
 
-## Tutor: Yash Bharti- yb1025@nyu.edu  (hours TBD)
-## Mini-Exams: Wednesdays   (2/24, 3/24,4/21)
-## Final:  TBD  during 5/12 - 5/18
+## Tutor
+Yash Bharti- yb1025@nyu.edu  (hours TBD)
+## Mini-Exams
+Wednesdays   (2/24, 3/24,4/21)
+## Final
+TBD, during 5/12 - 5/18
 We will use  NYU Classes where all lecture material, homework assignments, and classwork will be available.
 
 
