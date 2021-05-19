@@ -2,7 +2,7 @@
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
-layout: home
+layout: page
 ---
 # CSCI-UA.0201-001: Computer Systems Organization                       
 Prof. Douglas Moody (Adjunct)
