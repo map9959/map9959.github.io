@@ -16,4 +16,4 @@ layout: page
 
 Name | Due Date
 -----|-----
-[Project 1: C Programming (Part 1)](project1.markdown) | Placeholder
+ | 
