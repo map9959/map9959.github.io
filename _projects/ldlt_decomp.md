@@ -2,9 +2,10 @@
 layout: page
 title: Implementing and Benchmarking a Parallel LDLT Factorization with SYCL
 description: my work at the Flatiron Institute
-img: assets/img/12.jpg
+img: assets/img/publication_preview/ldlt-preview.png
 importance: 1
 category: academic
+permalink: /assets/pdf/ldlt-sycl-poster.pdf
 related_publications: false
 ---
 

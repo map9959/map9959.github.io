@@ -2,9 +2,10 @@
 layout: page
 title: Scaling the Finite Element Method to Small Problems with Dense Linear Solvers
 description: my work at NYU's Geometric Computing Lab
-img: assets/img/12.jpg
+img: assets/img/publication_preview/dense-assembly-preview.png
 importance: 1
 category: academic
+permalink: /assets/pdf/dense-assembly-poster.pdf
 related_publications: false
 ---
 
