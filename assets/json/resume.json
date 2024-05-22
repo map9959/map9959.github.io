@@ -1,190 +1,204 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Michael Paciullo",
+    "label": "Software Engineer and Researcher",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "map9959@nyu.edu",
+    "phone": "",
+    "url": "https://map9959.github.io/",
+    "summary": "Recent graduate from NYU, experienced in numerical linear algebra and GPU programming",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
+      "address": "",
+      "postalCode": "",
+      "city": "New York",
       "countryCode": "US",
-      "region": "California"
+      "region": "New York"
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
+        "network": "LinkedIn",
+        "username": "Michael Paciullo",
         "url": "https://twitter.com/AlbertEinstein"
+      },
+      {
+        "network": "Github",
+        "username": "map9959",
+        "url": "https://github.com/map9959"
       }
     ]
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "name": "Flatiron Institute, Simons Foundation",
+      "position": "Scientific Computing Intern",
+      "url": "https://www.simonsfoundation.org/flatiron/",
+      "startDate": "2023-05-30",
+      "endDate": "2023-08-06",
+      "summary": "This position was at the Flatiron Institute's Scientific Computing Core. I implemented and benchmarked parallel high-performance large matrix decompositions using CUDA and SYCL, a cross-platform GPU programming language.",
+      "highlights": ["Improved LDL^T factorization performance with high-performance GPU computing by up to 150x over CPUs",
+        "designed a research poster based on my work",
+        "communicated results to interdisciplinary computational scientific teams at an internal conference"]
+    },
+    {
+      "name": "Geometric Computing Lab, New York University",
+      "position": "Undergraduate Research Assistant",
+      "url": "https://cims.nyu.edu/gcl/",
+      "startDate": "2022-08-15",
+      "endDate": "2023-11-30",
+      "summary": "I was an undergraduate research assistant at NYU's Geometric Computing Lab, a physical simulation and geometry processing research group. I worked on multiple research projects here as an undergraduate.",
+      "highlights": ["Maintained the CMake build pipeline and re-added CUDA support for SymbolicLib, an expression tree compiler for optimizing repeated sparse matrix operations",
+        "Integrated cuSolverDN, a GPU-based dense linear solver written in CUDA, into polyfem, a C++ finite element library, and polysolve, a wrapper for linear solvers",
+        "Compared assembly and solving times for finite element method problems between dense and sparse matrix data structures using matplotlib, numpy, CuPy, PolyFEM, libigl, and polysolve",
+        "assembled a research poster based on this project, presented work at the NYU Undergraduate Research Conference to a general audience"]
+    },
+    {
+      "name": "Courant Institute of Mathematical Sciences, New York University",
+      "position": "Tutor for CSCIUA-102 Data Structures, Course Assistant for CSCIUA-102 and CSCIUA-201",
+      "url": "https://cims.nyu.edu",
+      "startDate": "2021-05-30",
+      "endDate": "2021-08-15",
+      "summary": "I was asked to be a tutor and course assistant for two computer science classes based on my strong performance as a freshman in computer science.",
+      "highlights": ["Scheduled regular tutor office hours for intro-level data structures and systems programming students learning Java, C, and x86 assembly, for a combined total of over 100 students during the summer",
+      "Tracked attendance across both courses with Zoom and Microsoft Excel",
+      "Spearheaded four virtual recitation sections over Zoom for overseas students to encourage attendance and provide extra support during COVID-19"]
+    },
+    {
+      "name": "Courant Institute of Mathematical Sciences, New York University",
+      "position": "Grader for CSCIUA-102 Data Structures",
+      "url": "https://cims.nyu.edu",
+      "startDate": "2021-01-20",
+      "endDate": "2022-05-15",
+      "summary": "I was asked to be a grader for an introductory data structures class based on my strong performance during the semester. I held this position for my first two years at NYU.",
+      "highlights": ["Graded weekly homeworks/assignments for an intro-level data structures course taught in Java using Gradescope and JUnit",
+        "Provided thorough feedback to a section of 25 students in a total course size of over 100",
+        "Connected with instructors to proofread and verify assignments and other materials prior to distribution to students"]
     }
   ],
   "volunteer": [
     {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "organization": "Herricks Summer Music Camp",
+      "location": "New Hyde Park, NY, US",
+      "position": "Counselor",
+      "url": "https://herricks.org",
+      "startDate": "2018-07-01",
+      "endDate": "2018-08-01",
+      "summary": "Volunteer counselor for a high school summer music camp.",
+      "highlights": ["Participated in demonstration ensembles with fellow counselors",
+        "Engaged with brass students in the 3rd-8th grades to develop musical skills",
+        "Selected, arranged, and composed classical and jazz repertoire for young student ensembles"]
     }
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
+      "institution": "New York University",
+      "location": "New York, NY, US",
+      "url": "https://www.nyu.edu/",
+      "area": "Computer Science and Mathematics",
+      "studyType": "BA",
+      "startDate": "2020-08-30",
+      "endDate": "2024-05-15",
+      "score": "3.468/4.0 (CS GPA 3.756)",
+      "courses": ["Computer Graphics (Graduate)", "Computer Vision (Graduate)", "Virtual Reality", "Machine Learning", "Intro to Cryptography", "Quantum Computing", "Honors Numerical Analysis"]
     }
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "title": "Dean's Undergraduate Research Fund Grant",
+      "date": "2022-05-15",
+      "awarder": "New York University",
+      "url": "https://cas.nyu.edu/undergraduate-research/deans-undergraduate-research-fund.html",
+      "summary": "The Dean's Undergraduate Research Fund is a $2,000 grant awarded to undergraduate students showing promise in research by submitting an abstract and detailed research plan. All students receiving this award present at NYU's Undergraduate Research Conference."
     }
   ],
   "certificates": [
     {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
-    },
-    {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
+      "name": "Fundamentals of Deep Learning",
+      "date": "2023-06-26",
+      "issuer": "NVIDIA",
+      "url": "https://learn.nvidia.com/certificates?id=e0c50ec4660847a3ba507a4bf0e9bf5d",
       "icon": "fa-solid fa-tag"
     },
     {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
+      "name": "Data Parallelism: How to Train Deep Learning Models on Multiple GPUs",
+      "date": "2023-06-27",
+      "issuer": "NVIDIA",
+      "url": "https://learn.nvidia.com/certificates?id=e52702ed78ba4ee2abc6e60bf9906d3a",
+      "icon": "fa-solid fa-tag"
+    },
+    {
+      "name": "Triplebyte Certification",
+      "date": "2021-12-01",
+      "issuer": "Triplebyte",
+      "url": "https://triplebyte.com/tb/michael-paciullo-cne5lpx/certificate",
       "icon": "fa-solid fa-envelope"
-    },
-    {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
-    },
-    {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
     }
   ],
   "publications": [
     {
-      "name": "Zur Elektrody/namik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
+      "name": "Scaling the Finite Element Method to Small Problems with Dense Linear Solvers",
+      "publisher": "Inquiry (NYU Undergraduate Research Journal)",
+      "releaseDate": "2024-06-01",
+      "url": "https://drive.google.com/file/d/1kkXYPI-mZ012svBPG5H4mbbWfBuu-n4i/view?usp=drive_link",
+      "summary": "I used dense matrix data structures for small Laplacian problems with the finite element method. They may be faster if the problem is small, and the memory is already in cache and already zeroed. This was presented at NYU's undergraduate research conference and published in Inquiry, NYU's undergraduate research journal."
     },
     {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
-    },
-    {
-      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1916-03-20",
-      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
+      "name": "Implementing and Benchmarking a Parallel $LDL^T$ Factorization with SYCL",
+      "publisher": "Simons Foundation Internal Conference",
+      "releaseDate": "2023-08-01",
+      "url": "https://drive.google.com/file/d/1CXU0LHUvaYlvcts_ITQG9gDhvlYzOkCO/view?usp=drive_link",
+      "summary": "I compared the speed of SYCL, a cross-platform GPU language, versus CUDA and CPU programming, with a highly-parallel block matrix factorization. This was presented at an internal conference for interns at the Flatiron Institute."
     }
   ],
   "skills": [
     {
-      "name": "Physics",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
+      "name": "Computer Graphics",
+      "icon": "fa-solid fa-tag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Physical Simulation",
+        "Rendering"
+      ]
+    },
+    {
+      "name": "Numerical Linear Algebra",
+      "icon": "fa-solid fa-tag",
+      "keywords": [
+        "GPU Programming",
+        "Matrix Factorizations",
+        "CUDA",
+        "SYCL"
       ]
     }
   ],
   "languages": [
     {
-      "language": "German",
+      "language": "English",
       "fluency": "Native speaker",
       "icon": ""
     },
     {
-      "language": "English",
-      "fluency": "Fluent",
+      "language": "Italian",
+      "fluency": "Beginner",
       "icon": ""
     }
   ],
   "interests": [
     {
-      "name": "Physics",
+      "name": "Computer Graphics",
       "icon": "fa-solid fa-tag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Physical Simulation",
+        "Rendering"
       ]
-    }
-  ],
-  "references": [
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
     },
     {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+      "name": "Numerical Linear Algebra",
+      "icon": "fa-solid fa-tag",
+      "keywords": [
+        "GPU Programming",
+        "Matrix Factorizations",
+        "CUDA",
+        "SYCL"
+      ]
     }
   ],
   "projects": [
