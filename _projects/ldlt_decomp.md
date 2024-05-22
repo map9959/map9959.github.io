@@ -5,7 +5,7 @@ description: my work at the Flatiron Institute
 img: assets/img/publication_preview/ldlt-preview.png
 importance: 1
 category: academic
-permalink: /assets/pdf/ldlt-sycl-poster.pdf
+redirect: /assets/pdf/ldlt-sycl-poster.pdf
 related_publications: false
 ---
 

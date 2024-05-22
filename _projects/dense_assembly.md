@@ -5,7 +5,7 @@ description: my work at NYU's Geometric Computing Lab
 img: assets/img/publication_preview/dense-assembly-preview.png
 importance: 1
 category: academic
-permalink: /assets/pdf/dense-assembly-poster.pdf
+redirect: /assets/pdf/dense-assembly-poster.pdf
 related_publications: false
 ---
 
