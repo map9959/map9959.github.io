@@ -35,9 +35,11 @@
       "startDate": "2023-05-30",
       "endDate": "2023-08-06",
       "summary": "This position was at the Flatiron Institute's Scientific Computing Core. I implemented and benchmarked parallel high-performance large matrix decompositions using CUDA and SYCL, a cross-platform GPU programming language.",
-      "highlights": ["Improved LDLT factorization performance with high-performance GPU computing by up to 150x over CPUs",
+      "highlights": [
+        "Improved LDLT factorization performance with high-performance GPU computing by up to 150x over CPUs",
         "designed a research poster based on my work",
-        "communicated results to interdisciplinary computational scientific teams at an internal conference"]
+        "communicated results to interdisciplinary computational scientific teams at an internal conference"
+      ]
     },
     {
       "name": "Geometric Computing Lab, New York University",
@@ -46,10 +48,12 @@
       "startDate": "2022-08-15",
       "endDate": "2023-11-30",
       "summary": "I was an undergraduate research assistant at NYU's Geometric Computing Lab, a physical simulation and geometry processing research group. I worked on multiple research projects here as an undergraduate.",
-      "highlights": ["Maintained the CMake build pipeline and re-added CUDA support for SymbolicLib, an expression tree compiler for optimizing repeated sparse matrix operations",
+      "highlights": [
+        "Maintained the CMake build pipeline and re-added CUDA support for SymbolicLib, an expression tree compiler for optimizing repeated sparse matrix operations",
         "Integrated cuSolverDN, a GPU-based dense linear solver written in CUDA, into polyfem, a C++ finite element library, and polysolve, a wrapper for linear solvers",
         "Compared assembly and solving times for finite element method problems between dense and sparse matrix data structures using matplotlib, numpy, CuPy, PolyFEM, libigl, and polysolve",
-        "assembled a research poster based on this project, presented work at the NYU Undergraduate Research Conference to a general audience"]
+        "assembled a research poster based on this project, presented work at the NYU Undergraduate Research Conference to a general audience"
+      ]
     },
     {
       "name": "Courant Institute of Mathematical Sciences, New York University",
@@ -58,9 +62,11 @@
       "startDate": "2021-05-30",
       "endDate": "2021-08-15",
       "summary": "I was asked to be a tutor and course assistant for two computer science classes based on my strong performance as a freshman in computer science.",
-      "highlights": ["Scheduled regular tutor office hours for intro-level data structures and systems programming students learning Java, C, and x86 assembly, for a combined total of over 100 students during the summer",
-      "Tracked attendance across both courses with Zoom and Microsoft Excel",
-      "Spearheaded four virtual recitation sections over Zoom for overseas students to encourage attendance and provide extra support during COVID-19"]
+      "highlights": [
+        "Scheduled regular tutor office hours for intro-level data structures and systems programming students learning Java, C, and x86 assembly, for a combined total of over 100 students during the summer",
+        "Tracked attendance across both courses with Zoom and Microsoft Excel",
+        "Spearheaded four virtual recitation sections over Zoom for overseas students to encourage attendance and provide extra support during COVID-19"
+      ]
     },
     {
       "name": "Courant Institute of Mathematical Sciences, New York University",
@@ -69,9 +75,11 @@
       "startDate": "2021-01-20",
       "endDate": "2022-05-15",
       "summary": "I was asked to be a grader for an introductory data structures class based on my strong performance during the semester. I held this position for my first two years at NYU.",
-      "highlights": ["Graded weekly homeworks/assignments for an intro-level data structures course taught in Java using Gradescope and JUnit",
+      "highlights": [
+        "Graded weekly homeworks/assignments for an intro-level data structures course taught in Java using Gradescope and JUnit",
         "Provided thorough feedback to a section of 25 students in a total course size of over 100",
-        "Connected with instructors to proofread and verify assignments and other materials prior to distribution to students"]
+        "Connected with instructors to proofread and verify assignments and other materials prior to distribution to students"
+      ]
     }
   ],
   "volunteer": [
@@ -83,9 +91,11 @@
       "startDate": "2018-07-01",
       "endDate": "2018-08-01",
       "summary": "Volunteer counselor for a high school summer music camp.",
-      "highlights": ["Participated in demonstration ensembles with fellow counselors",
+      "highlights": [
+        "Participated in demonstration ensembles with fellow counselors",
         "Engaged with brass students in the 3rd-8th grades to develop musical skills",
-        "Selected, arranged, and composed classical and jazz repertoire for young student ensembles"]
+        "Selected, arranged, and composed classical and jazz repertoire for young student ensembles"
+      ]
     }
   ],
   "education": [
@@ -98,7 +108,15 @@
       "startDate": "2020-08-30",
       "endDate": "2024-05-15",
       "score": "3.468/4.0 (CS GPA 3.756)",
-      "courses": ["Computer Graphics (Graduate)", "Computer Vision (Graduate)", "Virtual Reality", "Machine Learning", "Intro to Cryptography", "Quantum Computing", "Honors Numerical Analysis"]
+      "courses": [
+        "Computer Graphics (Graduate)",
+        "Computer Vision (Graduate)",
+        "Virtual Reality",
+        "Machine Learning",
+        "Intro to Cryptography",
+        "Quantum Computing",
+        "Honors Numerical Analysis"
+      ]
     }
   ],
   "awards": [
@@ -153,20 +171,12 @@
     {
       "name": "Computer Graphics",
       "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Physical Simulation",
-        "Rendering"
-      ]
+      "keywords": ["Physical Simulation", "Rendering"]
     },
     {
       "name": "Numerical Linear Algebra",
       "icon": "fa-solid fa-tag",
-      "keywords": [
-        "GPU Programming",
-        "Matrix Factorizations",
-        "CUDA",
-        "SYCL"
-      ]
+      "keywords": ["GPU Programming", "Matrix Factorizations", "CUDA", "SYCL"]
     }
   ],
   "languages": [
@@ -185,20 +195,12 @@
     {
       "name": "Computer Graphics",
       "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Physical Simulation",
-        "Rendering"
-      ]
+      "keywords": ["Physical Simulation", "Rendering"]
     },
     {
       "name": "Numerical Linear Algebra",
       "icon": "fa-solid fa-tag",
-      "keywords": [
-        "GPU Programming",
-        "Matrix Factorizations",
-        "CUDA",
-        "SYCL"
-      ]
+      "keywords": ["GPU Programming", "Matrix Factorizations", "CUDA", "SYCL"]
     }
   ],
   "projects": [

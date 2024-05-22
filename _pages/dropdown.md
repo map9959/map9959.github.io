@@ -1,7 +1,7 @@
 ---
 layout: page
 title: submenus
-nav: true
+nav: false
 nav_order: 4
 dropdown: true
 children:
@@ -10,7 +10,7 @@ children:
   - title: divider
   - title: projects
     permalink: /projects/
-  - title: divider
+  #- title: divider
   #- title: blog
   #  permalink: /blog/
 ---
