@@ -35,7 +35,7 @@
       "startDate": "2023-05-30",
       "endDate": "2023-08-06",
       "summary": "This position was at the Flatiron Institute's Scientific Computing Core. I implemented and benchmarked parallel high-performance large matrix decompositions using CUDA and SYCL, a cross-platform GPU programming language.",
-      "highlights": ["Improved LDL^T factorization performance with high-performance GPU computing by up to 150x over CPUs",
+      "highlights": ["Improved LDLT factorization performance with high-performance GPU computing by up to 150x over CPUs",
         "designed a research poster based on my work",
         "communicated results to interdisciplinary computational scientific teams at an internal conference"]
     },
@@ -77,7 +77,7 @@
   "volunteer": [
     {
       "organization": "Herricks Summer Music Camp",
-      "location": "New Hyde Park, NY, US",
+      "location": "New Hyde Park, NY",
       "position": "Counselor",
       "url": "https://herricks.org",
       "startDate": "2018-07-01",
@@ -94,7 +94,7 @@
       "location": "New York, NY, US",
       "url": "https://www.nyu.edu/",
       "area": "Computer Science and Mathematics",
-      "studyType": "BA",
+      "studyType": "Bachelor of Arts",
       "startDate": "2020-08-30",
       "endDate": "2024-05-15",
       "score": "3.468/4.0 (CS GPA 3.756)",
@@ -142,7 +142,7 @@
       "summary": "I used dense matrix data structures for small Laplacian problems with the finite element method. They may be faster if the problem is small, and the memory is already in cache and already zeroed. This was presented at NYU's undergraduate research conference and published in Inquiry, NYU's undergraduate research journal."
     },
     {
-      "name": "Implementing and Benchmarking a Parallel $LDL^T$ Factorization with SYCL",
+      "name": "Implementing and Benchmarking a Parallel LDLT Factorization with SYCL",
       "publisher": "Simons Foundation Internal Conference",
       "releaseDate": "2023-08-01",
       "url": "https://drive.google.com/file/d/1CXU0LHUvaYlvcts_ITQG9gDhvlYzOkCO/view?usp=drive_link",
@@ -203,12 +203,33 @@
   ],
   "projects": [
     {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
+      "name": "LDLT Benchmark",
+      "summary": "An implementation of the LAPACK routines sytrf() and ssptrf() in SYCL, a cross-platform GPU programming language.",
+      "startDate": "2023-05-30",
+      "endDate": "2023-08-06",
+      "url": "https://github.com/map9959/ldlt-benchmark"
+    },
+    {
+      "name": "Dense Assembly Timing",
+      "summary": "I measured times for using dense versus sparse matrices in finite element assembly and solving.",
+      "startDate": "2021-10-01",
+      "endDate": "2022-03-01",
+      "url": "https://github.com/map9959/dense-assembly-timing"
+    },
+    {
+      "name": "Polysolve (Contributor)",
+      "summary": "I updated a linear solver interface to include cuSolverDN, a GPU-based dense linear solver written in CUDA.",
       "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
+      "startDate": "2021-10-01",
+      "endDate": "2022-03-01",
+      "url": "https://github.com/map9959/polysolve"
+    },
+    {
+      "name": "Quod Erat Osthenes",
+      "summary": "A multi-threaded prime number finder in C using POSIX threads.",
+      "startDate": "2021-07-01",
+      "endDate": "2021-08-01",
+      "url": "https://github.com/map9959/quod-erat-osthenes"
     }
   ]
 }
