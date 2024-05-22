@@ -1,12 +1,8 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - map9959
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - map9959/ldlt-benchmark
+  - map9959/dense-assembly-timing
+  - map9959/polysolve
+  - map9959/quod-erat-osthenes
