@@ -57,7 +57,7 @@
     },
     {
       "name": "Courant Institute of Mathematical Sciences, New York University",
-      "position": "Tutor for CSCIUA-102 Data Structures, Course Assistant for CSCIUA-102 and CSCIUA-201",
+      "position": "Tutor for CSCI-UA 102 Data Structures, Course Assistant for CSCI-UA 102 and CSCI-UA 201",
       "url": "https://cims.nyu.edu",
       "startDate": "2021-05-30",
       "endDate": "2021-08-15",
@@ -70,7 +70,7 @@
     },
     {
       "name": "Courant Institute of Mathematical Sciences, New York University",
-      "position": "Grader for CSCIUA-102 Data Structures",
+      "position": "Grader for CSCI-UA 102 Data Structures",
       "url": "https://cims.nyu.edu",
       "startDate": "2021-01-20",
       "endDate": "2022-05-15",
@@ -221,7 +221,6 @@
     {
       "name": "Polysolve (Contributor)",
       "summary": "I updated a linear solver interface to include cuSolverDN, a GPU-based dense linear solver written in CUDA.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
       "startDate": "2021-10-01",
       "endDate": "2022-03-01",
       "url": "https://github.com/map9959/polysolve"
