@@ -22,4 +22,4 @@ Hi! I'm Michael Paciullo, a recent graduate from NYU, software engineer, and res
 
 I worked at NYU's Geometric Computing Lab as an undergraduate, learning about the finite element method and contributing to [polysolve](https://github.com/polyfem/polysolve), a linear and non-linear solver API. I worked on another matrix factorization project at the [Flatiron Institute](https://www.simonsfoundation.org/flatiron/), the research division of the Simons Foundation.
 
-I am currently looking for a software engineering position in the New York City area! Feel free to connect with me on any of the social media links below. For any job-related inquiries, please contant me via LinkedIn. For academic inquiries, feel free to email me.
+I am currently looking for a software engineering position in the New York City area! Feel free to connect with me on any of the social media links below. For any job-related inquiries, please contact me via LinkedIn. For academic inquiries, feel free to email me.
