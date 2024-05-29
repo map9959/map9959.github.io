@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: BA in CS/Math from <a href='https://nyu.edu'>NYU</a> | Former intern @ <a href='https://www.simonsfoundation.org/flatiron/'>Flatiron</a> | Looking for new opportunities
+subtitle: BA in CS/Math from NYU | Former intern @ <a href='https://www.simonsfoundation.org/flatiron/'>Flatiron</a> | Looking for new opportunities
 
 profile:
   align: right
