@@ -29,6 +29,16 @@
   },
   "work": [
     {
+      "name": "Standard Practice AI",
+      "position": "Backend Engineer",
+      "url": "https://standardpractice.ai",
+      "startDate": "2024-07-17",
+      "endDate": "present",
+      "summary": "Building AI for outbound calls from medical practices.",
+      "highlights": [
+      ]
+    },
+    {
       "name": "Flatiron Institute, Simons Foundation",
       "position": "Scientific Computing Intern",
       "url": "https://www.simonsfoundation.org/flatiron/",
