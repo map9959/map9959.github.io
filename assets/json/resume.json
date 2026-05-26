@@ -18,7 +18,7 @@
       {
         "network": "LinkedIn",
         "username": "Michael Paciullo",
-        "url": "https://twitter.com/AlbertEinstein"
+        "url": "https://linkedin.com/michael-paciullo-a988611b3"
       },
       {
         "network": "Github",
@@ -29,12 +29,23 @@
   },
   "work": [
     {
-      "name": "Standard Practice AI",
-      "position": "Backend Engineer",
-      "url": "https://standardpractice.ai",
-      "startDate": "2024-07-17",
+      "name": "Writer",
+      "position": "Software Engineer, Generative AI",
+      "url": "https://writer.com/engineering/rebuilding-ai-infrastructure-scale-llm-gateway/",
+      "location": "New York, NY",
+      "startDate": "2026-04",
       "endDate": "present",
-      "summary": "Building AI for outbound calls from medical practices.",
+      "summary": "Building generative AI for the enterprise. Contact me for further details.",
+      "highlights": []
+    },
+    {
+      "name": "Standard Practice",
+      "position": "Founding Backend Engineer",
+      "url": "https://standardpractice.ai",
+      "location": "New York, NY",
+      "startDate": "2024-07",
+      "endDate": "2026-04",
+      "summary": "Calling insurance companies with voice AI to get doctors paid quicker. Contact me for further details.",
       "highlights": []
     },
     {
