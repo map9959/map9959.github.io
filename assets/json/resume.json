@@ -6,7 +6,7 @@
     "email": "map9959@nyu.edu",
     "phone": "",
     "url": "https://map9959.github.io/",
-    "summary": "Recent graduate from NYU, experienced in numerical linear algebra and GPU programming",
+    "summary": "Backend-focused software engineer with research and industry experience. Focused on performance and solving interesting, unsolved problems at disproportionately high benefit.",
     "location": {
       "address": "",
       "postalCode": "",
@@ -54,7 +54,7 @@
       "url": "https://www.simonsfoundation.org/flatiron/",
       "startDate": "2023-05-30",
       "endDate": "2023-08-06",
-      "summary": "This position was at the Flatiron Institute's Scientific Computing Core. I implemented and benchmarked parallel high-performance large matrix decompositions using CUDA and SYCL, a cross-platform GPU programming language.",
+      "summary": "This position was at the Flatiron Institute's Scientific Computing Core. I implemented and benchmarked parallel high-performance large matrix decompositions using CUDA and SYCL, a cross-platform GPU programming language, to solve platform lock.",
       "highlights": [
         "Improved LDLT factorization performance with high-performance GPU computing by up to 150x over CPUs",
         "designed a research poster based on my work",
@@ -77,28 +77,45 @@
     },
     {
       "name": "Courant Institute of Mathematical Sciences, New York University",
-      "position": "Tutor for CSCI-UA 102 Data Structures, Course Assistant for CSCI-UA 102 and CSCI-UA 201",
+      "position": "Grader, Tutor, and Course Assistant for CSCI-UA 102 and CSCI-UA 201",
       "url": "https://cims.nyu.edu",
-      "startDate": "2021-05-30",
-      "endDate": "2021-08-15",
-      "summary": "I was asked to be a tutor and course assistant for two computer science classes based on my strong performance as a freshman in computer science.",
+      "startDate": "2021-01-20",
+      "endDate": "2022-05-15",
+      "summary": "Sharing knowledge with future builders. Graded, tutored, and assisted for introductory data structures and systems programming courses.",
       "highlights": [
+        "Graded weekly homeworks/assignments for an intro-level data structures course taught in Java using Gradescope and JUnit",
+        "Provided thorough feedback to a section of 25 students in a total course size of over 100",
+        "Connected with instructors to proofread and verify assignments and other materials prior to distribution to students",
         "Scheduled regular tutor office hours for intro-level data structures and systems programming students learning Java, C, and x86 assembly, for a combined total of over 100 students during the summer",
         "Tracked attendance across both courses with Zoom and Microsoft Excel",
         "Spearheaded four virtual recitation sections over Zoom for overseas students to encourage attendance and provide extra support during COVID-19"
       ]
     },
     {
-      "name": "Courant Institute of Mathematical Sciences, New York University",
-      "position": "Grader for CSCI-UA 102 Data Structures",
-      "url": "https://cims.nyu.edu",
-      "startDate": "2021-01-20",
-      "endDate": "2022-05-15",
-      "summary": "I was asked to be a grader for an introductory data structures class based on my strong performance during the semester. I held this position for my first two years at NYU.",
+      "name": "IRT Lab, Columbia University",
+      "position": "High School Research Assistant",
+      "url": "https://irtlab.gitlab.io/lmr-emulator/",
+      "location": "New York, NY",
+      "startDate": "2019-06",
+      "endDate": "2019-08",
+      "summary": "Shaving milliseconds off emergency voice communications to save lives.",
       "highlights": [
-        "Graded weekly homeworks/assignments for an intro-level data structures course taught in Java using Gradescope and JUnit",
-        "Provided thorough feedback to a section of 25 students in a total course size of over 100",
-        "Connected with instructors to proofread and verify assignments and other materials prior to distribution to students"
+        "Measured voice delay in the P.25 audio codec with Python and C",
+        "Helped debug and rebuild tools to calculate delay between two audio channels",
+        "Wrote a research paper and submitted to the Regeneron Science Talent Search"
+      ]
+    },
+    {
+      "name": "The Data Science Institute at Columbia University",
+      "position": "High School Research Assistant",
+      "url": "",
+      "location": "New York, NY",
+      "startDate": "2018-06",
+      "endDate": "2019-01",
+      "summary": "As a high school student, I helped design a tool to simulate cybersecurity threat models for a general audience, and wrote an academic paper based on the tool.",
+      "highlights": [
+        "Helped design a tool to simulate cybersecurity threat models for a general audience",
+        "Wrote an academic paper based on the tool"
       ]
     }
   ],
