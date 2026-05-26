@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Backend Engineer at Standard Practice | BA in CS/Math from NYU | Former intern @ <a href='https://www.simonsfoundation.org/flatiron/'>Flatiron</a>
+subtitle: Software Engineer at Writer | BA in CS/Math from NYU | Former intern @ <a href='https://www.simonsfoundation.org/flatiron/'>Flatiron</a>
 
 profile:
   align: right
