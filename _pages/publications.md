@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: publications
-description: Collection of my academic work at NYU and the Flatiron Institute.
+description: Collection of my academic and industry work at WRITER, NYU, and the Flatiron Institute.
 nav: true
 nav_order: 2
 ---
