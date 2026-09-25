@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-First day at [Standard Practice AI](https://standardpractice.ai)!
+First day at Standard Practice!
