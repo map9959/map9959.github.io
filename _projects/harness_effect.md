@@ -1,6 +1,6 @@
 ---
 layout: page
-title: The Harness Effect: How Orchestration Design Sets the Token Economics of Enterprise Agentic AI
+title: The Harness Effect - How Orchestration Design Sets the Token Economics of Enterprise Agentic AI
 description: my team's work on WRITER Agent's harness
 img: assets/img/publication_preview/harness-effect-preview.png
 importance: 1
