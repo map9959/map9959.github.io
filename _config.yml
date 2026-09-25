@@ -6,7 +6,6 @@ title: Michael Paciullo # the website title (if blank, full name will be used in
 first_name: Michael
 middle_name:
 last_name: Paciullo
-email: map9959@nyu.edu
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Michael Paciullo's personal site; software engineer with experience in numerical linear algebra and physical simulation.
 footer_text: >
@@ -33,14 +32,14 @@ repo_theme_dark: dark # https://github.com/stats-organization/github-stats-exten
 # Off by default: addresses are then split at build time so the HTML contains no
 # `user@host` and no `mailto:` for harvesters to scrape, and clicking one copies
 # it to the clipboard instead of opening a mail client.
-# See "Protecting email addresses from scrapers" in docs/CUSTOMIZE.md.
+# See the upstream al-folio customization guide for email protection details.
 protect_email: false
 
 # Off by default: the free public github-profile-trophy instance is disabled
 # (its Vercel deployment answers HTTP 402 / DEPLOYMENT_DISABLED), so every trophy
 # image 404s. The project itself is still open source and free — self-host it and
 # point external_services.github_profile_trophy_url at your instance, then set
-# enabled: true. See docs/CUSTOMIZE.md.
+# enabled: true.
 repo_trophies:
   enabled: false
   theme_light: flat # https://github.com/ryo-ma/github-profile-trophy
@@ -84,14 +83,6 @@ al_folio:
     auto_apply_safe_fixes: false
 
 # -----------------------------------------------------------------------------
-# RSS Feed
-# -----------------------------------------------------------------------------
-# will use title and url fields
-# Take a look to https://github.com/jekyll/jekyll-feed for more customization
-
-rss_icon: false
-
-# -----------------------------------------------------------------------------
 # Layout
 # -----------------------------------------------------------------------------
 
@@ -118,45 +109,7 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # Social integration
 # -----------------------------------------------------------------------------
 
-acm_id: # your dl.acm.org/profile/id
-blogger_url: # your blogger URL
-bluesky_url: # your bluesky URL
-dblp_url: # your DBLP profile url
-discord_id: # your discord id (18-digit unique numerical identifier)
-facebook_id: # your facebook id
-flickr_id: # your flickr id
-github_username: map9959 # your GitHub user name
-gitlab_username: # your GitLab user name
-ieee_id: # your ieeexplore.ieee.org/author/id
-instagram_id: # your instagram id
-kaggle_id: # your kaggle id
-keybase_username: # your keybase user name
-lastfm_id: # your lastfm id
-lattes_id: # your ID on Lattes (Brazilian Lattes CV)
-linkedin_username: michael-paciullo-a988611b3 # your LinkedIn user name
-mastodon_username: # your mastodon instance+username in the format instance.tld/@username
-medium_username: # your Medium username
-orcid_id: 0000-0003-1466-9912 # your ORCID ID
-osf_id: # your OSF ID
-pinterest_id: # your pinterest id
-publons_id: # your ID on Publons
-quora_username: # your Quora username
-research_gate_profile: # your profile on ResearchGate
-scholar_userid: # your Google Scholar ID
-scopus_id: # your profile on Scopus
-semanticscholar_id: # your Semantic Scholar ID
-spotify_id: # your spotify id
-stackoverflow_id: # your stackoverflow id
-telegram_username: # your Telegram user name
-unsplash_id: # your unsplash id
-wechat_qr: # filename of your wechat qr-code saved as an image (e.g., wechat-qr.png if saved to assets/img/wechat-qr.png)
-whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
-wikidata_id: # your wikidata id
-wikipedia_id: # your wikipedia id (Case sensitive)
-work_url: # work page URL
-x_username: # your X handle
-youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
-zotero_username: # your zotero username
+# Social links and email are configured in _data/socials.yml.
 
 contact_note: >
   For job-related inquiries, please contact me via LinkedIn.
@@ -213,7 +166,7 @@ giscus:
   lang: en
 
 # Disqus comments (DEPRECATED)
-disqus_shortname: al-folio # put your disqus shortname
+disqus_shortname: # set only if enabling Disqus on a post
 # https://help.disqus.com/en/articles/1717111-what-s-a-shortname
 
 # External sources.
@@ -235,15 +188,11 @@ newsletter:
 # -----------------------------------------------------------------------------
 
 collections:
-  books:
-    output: true
   news:
     defaults:
       layout: post
     output: true
   projects:
-    output: true
-  teachings:
     output: true
 
 # -----------------------------------------------------------------------------
@@ -269,23 +218,18 @@ exclude:
   - AGENTS.md
   - al-folio-upgrade-report.md
   - bin/
-  - CLAUDE.md
   - Dockerfile
   - docker-compose.yml
-  - docker-compose-slim.yml
-  - docs/
   - Gemfile
   - Gemfile.lock
   - LICENSE
-  - lighthouse_results/
   - package.json
   - package-lock.json
-  - _pages/about_einstein.md
-  - purgecss.config.js
   - README.md
-  - readme_preview/
-  - gems/
-  - migrations/
+  - requirements.txt
+  - node_modules/
+  - test/
+  - .devcontainer/
   - vendor
 keep_files:
   - CNAME
@@ -381,8 +325,6 @@ jekyll-archives:
       year: "/blog/:year/"
       tags: "/blog/:type/:name/"
       categories: "/blog/:type/:name/"
-  books:
-    enabled: [year, tags, categories] # enables year, tag and category archives (remove if you need to disable one of them).
 
 display_tags: ["meta"] # these tags will be displayed on the front page of your blog
 display_categories: ["meta"] # these categories will be displayed on the front page of your blog

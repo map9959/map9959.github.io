@@ -1,3 +1,7 @@
-_site/
-.git/
-assets/
+**
+!Dockerfile
+!Gemfile
+!Gemfile.lock
+!requirements.txt
+!bin/
+!bin/entry_point.sh
